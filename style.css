@@ -1,0 +1,30 @@
+.container{
+    background-color: black;
+    color: greenyellow;
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+    text-align: center;
+    width: 400px;
+    margin: 10px auto;
+    padding: 10px 0;
+    font-family:monospace;
+}
+.displayTimer{
+font-size: 48px;
+margin-bottom: 10px;
+}
+.Btn{
+    border: 2px solid whitesmoke;
+    border-radius: 15px;
+    padding:2px 10px;
+    margin:  auto;
+    cursor:pointer;
+    background-color: transparent;
+    color: whitesmoke;
+}
+.Btn:hover{
+    border: 2px solid greenyellow;
+    color: greenyellow;
+
+
+}
